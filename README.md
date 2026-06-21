@@ -28,7 +28,7 @@ The final dashboard empowers stakeholders to monitor KPIs, simulate discount imp
 
 I designed an aggregated fact table (`fact_orders`) connected to dimension tables for Customers, Products, Sellers, Date, and Payment methods to ensure fast, scalable reporting.
 
-![ERD Diagram](images/olist_erd.png)
+![ERD Diagram](images/olist_erd.drawio.png)
 
 ## 📊 Dashboard Preview
 
